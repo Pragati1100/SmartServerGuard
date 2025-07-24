@@ -31,3 +31,6 @@ SmartServerGuard/
 ├── real_time_prediction.py # Live inference script
 ├── run.py # Main entry point to start app
 ├── new.py # Experiment script (if applicable)
+
+📺 [Watch Demo Video]
+This file  is named as 📊 Device Dashboard - Google Chrome 2025-07-24 16-58-52 / It is is zip file.
