@@ -12,6 +12,7 @@ SmartServerGuard is an AI-powered system that predicts server failures and detec
 - Easy integration and extendability
 
 ## 🧱 Project Structure
+SmartserverGuard.zip is the Main code Folder.
 
 SmartServerGuard/
 ├── app/ # Flask application
